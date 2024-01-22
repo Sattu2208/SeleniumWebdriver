@@ -1,0 +1,13 @@
+package ddt_DataDrivenFramwork;
+
+public class DDT_OrangeHRM {
+
+	public static void main(String[] args) {
+		
+		// Create Object of Final Input Stream
+		FileInputStream file = new FileInputStream("D:\\Selenium Automation\\poi\\POI.xlsx\");
+		
+
+	}
+
+}

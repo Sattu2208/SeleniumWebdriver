@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;basicProgramms.BasicClassProgram&apos; to &apos;MethodULsingReturnTypeasVoid&apos;&#x0D;&#x0A;- Original project: &apos;ObjectOrientedProgrammingSystem&apos;&#x0D;&#x0A;- Original element: &apos;basicProgramms.BasicClassProgram&apos;&#x0D;&#x0A;- Renamed element: &apos;basicProgramms.MethodULsingReturnTypeasVoid&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BasicClassProgram&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;basicProgramms{BasicClassProgram.java[BasicClassProgram" matchStrategy="1" name="MethodULsingReturnTypeasVoid" qualified="false" references="true" similarDeclarations="false" stamp="1622965093117" textual="false" version="1.0"/>
+</session>
